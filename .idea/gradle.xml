@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mysqliteapplication" />
+            <option value="$PROJECT_DIR$/new_muiscapplication" />
+            <option value="$PROJECT_DIR$/sqliteapplication" />
+            <option value="$PROJECT_DIR$/testbroadcastapplication" />
+            <option value="$PROJECT_DIR$/testservice" />
+            <option value="$PROJECT_DIR$/testsqlite" />
+            <option value="$PROJECT_DIR$/testthreadapplication" />
+            <option value="$PROJECT_DIR$/threadtestapplication" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

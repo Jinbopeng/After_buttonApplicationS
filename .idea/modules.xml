@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/After_buttonApplicationS.iml" filepath="$PROJECT_DIR$/After_buttonApplicationS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysqliteapplication/mysqliteapplication.iml" filepath="$PROJECT_DIR$/mysqliteapplication/mysqliteapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new_muiscapplication/new_muiscapplication.iml" filepath="$PROJECT_DIR$/new_muiscapplication/new_muiscapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqliteapplication/sqliteapplication.iml" filepath="$PROJECT_DIR$/sqliteapplication/sqliteapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbroadcastapplication/testbroadcastapplication.iml" filepath="$PROJECT_DIR$/testbroadcastapplication/testbroadcastapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsqlite/testsqlite.iml" filepath="$PROJECT_DIR$/testsqlite/testsqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testthreadapplication/testthreadapplication.iml" filepath="$PROJECT_DIR$/testthreadapplication/testthreadapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadtestapplication/threadtestapplication.iml" filepath="$PROJECT_DIR$/threadtestapplication/threadtestapplication.iml" />
+    </modules>
+  </component>
+</project>

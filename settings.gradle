@@ -1,0 +1,1 @@
+include ':app', ':testbroadcastapplication', ':testservice', ':testsqlite', ':mysqliteapplication', ':sqliteapplication', ':new_muiscapplication', ':threadtestapplication', ':testthreadapplication'
